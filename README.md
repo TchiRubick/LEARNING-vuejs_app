@@ -1,5 +1,8 @@
 # Run
 
+This project must be run this project as back-end
+<https://github.com/TchiRubick/sayna_back>
+
 Install dependencies
 
 ```sh
